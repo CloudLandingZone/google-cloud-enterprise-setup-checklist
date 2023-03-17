@@ -7,3 +7,6 @@ https://cloud.google.com/docs/enterprise/setup-checklist
 
 This readme is a helper to the official GCP docs.
 
+
+## Alternate Landing Zones
+https://github.com/GoogleCloudPlatform/pbmm-on-gcp-onboarding/blob/main/docs/architecture.md#alternative-google-cloud-landing-zones
