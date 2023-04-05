@@ -20,3 +20,7 @@ Hybrid cloud requires secure landing zones on the target environments (Ground or
 - https://aws.amazon.com/solutions/implementations/landing-zone-accelerator-on-aws/
 ### GCP to Azure
 ### GCP to OCI
+
+
+# Links
+- https://github.com/GoogleCloudPlatform/anthos-config-management-samples
