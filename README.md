@@ -1,7 +1,7 @@
 # Companion to the Google Cloud Setup Checklist
 Date: 20230317
 
-This is the checklist that most GCP customers encounter when first onboarding to Google Cloud.
+This is the checklist that most GCP customers encounter when first onboarding to Google Cloud.  The official support of the [Technical Onboarding Center](https://cloud.google.com/onboarding) is also available
 
 https://cloud.google.com/docs/enterprise/setup-checklist
 
