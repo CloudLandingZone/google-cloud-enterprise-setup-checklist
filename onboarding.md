@@ -80,5 +80,9 @@
 
 - delete 2 of 4 teams
 <img width="1433" alt="Screenshot 2023-07-04 at 1 58 17 PM" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/94715080/764751cf-9739-4af7-9d3c-04df7462ee2f">
+- keep 3 environments
+<img width="1435" alt="Screenshot 2023-07-04 at 2 01 46 PM" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/94715080/d448ee27-d2bf-414d-bb16-ca9055b2e4fb">
+- reduce the number of projects for now
+<img width="1438" alt="Screenshot 2023-07-04 at 2 02 26 PM" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/94715080/d24af05b-2cbb-4cf5-acd7-e1560b706dec">
 
 
