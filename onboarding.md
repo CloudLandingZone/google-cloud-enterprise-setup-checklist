@@ -4,7 +4,7 @@
 - launch https://console.cloud.google.com/cloud-setup
 
 ## Prepare Before
-- billing_project_quota increase from the default 5
+- billing_project_quota increase from the default 5 - if you prepay $50 and ask for paid services only - quota is usually granted within 3 min by the bot.
 ## Cloud Setup | Overview
 - https://console.cloud.google.com/cloud-setup
 
@@ -61,6 +61,19 @@
 
 <img width="1434" alt="Screenshot 2023-07-04 at 1 26 33 PM" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/94715080/87a8c974-585d-4a2f-bc61-2f9a69790622">
 
+- if you prepay $50 and ask for paid services only - quota is usually granted within 3 min by the bot.
 
+<img width="1433" alt="Screenshot 2023-07-04 at 1 43 47 PM" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/94715080/d70ea689-d2f5-412d-9731-0ae7e10668eb">
 
+- setup resource hierarchy
+
+<img width="1428" alt="Screenshot 2023-07-04 at 1 46 26 PM" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/94715080/122cf9ac-b94e-4862-bf95-dd0604c128e4">
+
+- pick full unit/team/environment
+<img width="1114" alt="Screenshot 2023-07-04 at 1 48 34 PM" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/94715080/fbf49c70-2596-4618-b528-c1e42c3b892e">
+
+<img width="1441" alt="Screenshot 2023-07-04 at 1 50 11 PM" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/94715080/fd3b05e6-c3a8-4122-8f33-80489f857fc7">
+
+- move from 3 teams to 2
+<img width="1435" alt="Screenshot 2023-07-04 at 1 50 58 PM" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/94715080/1c580256-b160-47fd-8755-3c5991ba347e">
 
