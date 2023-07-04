@@ -2,6 +2,9 @@
 - see also https://github.com/GoogleCloudPlatform/pbmm-on-gcp-onboarding/blob/main/docs/google-cloud-onboarding.md
 - see https://cloud.google.com/onboarding
 - launch https://console.cloud.google.com/cloud-setup
+
+## Prepare Before
+- billing_project_quota increase from the default 5
 ## Cloud Setup | Overview
 - https://console.cloud.google.com/cloud-setup
 
@@ -47,7 +50,7 @@
 <img width="1434" alt="Screenshot 2023-07-04 at 1 24 02 PM" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/94715080/9243c7e2-7cf4-44d8-9b1b-473d81da99cb">
 - confirm billing
 
-## Hierarch & Access
+## Hierarchy & Access
 
 <img width="1436" alt="Screenshot 2023-07-04 at 1 25 29 PM" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/94715080/3ca487d4-db30-4a1e-91a1-c8142fd8a661">
 - Request a project quota increase 
@@ -57,5 +60,7 @@
 <img width="798" alt="Screenshot 2023-07-04 at 1 30 03 PM" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/94715080/63ceba6f-0a00-4a5c-8de6-0c313149c1a6">
 
 <img width="1434" alt="Screenshot 2023-07-04 at 1 26 33 PM" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/94715080/87a8c974-585d-4a2f-bc61-2f9a69790622">
+
+
 
 
