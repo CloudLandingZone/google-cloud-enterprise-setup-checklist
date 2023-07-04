@@ -1,4 +1,5 @@
 # Onboarding | Customer Onboarding Program | Technical Onboarding Center
+- see also https://github.com/GoogleCloudPlatform/pbmm-on-gcp-onboarding/blob/main/docs/google-cloud-onboarding.md
 - see https://cloud.google.com/onboarding
 - launch https://console.cloud.google.com/cloud-setup
 ## Cloud Setup | Overview
@@ -26,6 +27,24 @@
 
 - Add users to the groups - by default the super admin user you are using is already there
 <img width="1432" alt="Screenshot 2023-07-04 at 1 12 05 PM" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/94715080/2272fa13-77aa-4053-a011-b2597d92bb62">
+
+<img width="1430" alt="Screenshot 2023-07-04 at 1 17 52 PM" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/94715080/fe45e51d-b190-4c3b-ac4c-02958c2c311e">
+
+## Administrative Access
+- I already setup the admin user with the following roles - Owner is not recommended
+- <img width="1431" alt="Screenshot 2023-07-04 at 1 19 09 PM" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/94715080/50e96297-b140-495b-a393-28d12bbc749c">
+
+<img width="1434" alt="Screenshot 2023-07-04 at 1 18 26 PM" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/94715080/d1607b9b-465a-4433-8672-0d7b179ba6b4">
+- add administrative access to the groups themselves
+<img width="1437" alt="Screenshot 2023-07-04 at 1 19 55 PM" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/94715080/0d670c6c-d8ce-48dd-8815-3006dd3aaaac">
+
+<img width="1426" alt="Screenshot 2023-07-04 at 1 20 53 PM" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/94715080/70483fd8-9afb-4f3b-aca5-61eddc151ef2">
+
+## Billing
+- already setup for direct billing
+<img width="1434" alt="Screenshot 2023-07-04 at 1 21 47 PM" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/94715080/68ccf993-aff8-4ff8-94b4-60049930a045">
+
+
 
 
 
