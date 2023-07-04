@@ -5,6 +5,7 @@
 
 ## Prepare Before
 - billing_project_quota increase from the default 5 - if you prepay $50 and ask for paid services only - quota is usually granted within 3 min by the bot.
+
 ## Cloud Setup | Overview
 - https://console.cloud.google.com/cloud-setup
 
@@ -74,6 +75,10 @@
 
 <img width="1441" alt="Screenshot 2023-07-04 at 1 50 11 PM" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/94715080/fd3b05e6-c3a8-4122-8f33-80489f857fc7">
 
-- move from 3 teams to 2
+- move from 3 units to 2
 <img width="1435" alt="Screenshot 2023-07-04 at 1 50 58 PM" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/94715080/1c580256-b160-47fd-8755-3c5991ba347e">
+
+- delete 2 of 4 teams
+<img width="1433" alt="Screenshot 2023-07-04 at 1 58 17 PM" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/94715080/764751cf-9739-4af7-9d3c-04df7462ee2f">
+
 
