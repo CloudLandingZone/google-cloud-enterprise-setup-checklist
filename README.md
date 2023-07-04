@@ -7,6 +7,8 @@ https://cloud.google.com/docs/enterprise/setup-checklist
 
 This readme is a helper to the official GCP docs.
 
+Follow an example onboarding on [obrien.software](https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/blob/main/onboarding.md)
+
 
 ## Alternate Landing Zones
 https://github.com/GoogleCloudPlatform/pbmm-on-gcp-onboarding/blob/main/docs/architecture.md#alternative-google-cloud-landing-zones
