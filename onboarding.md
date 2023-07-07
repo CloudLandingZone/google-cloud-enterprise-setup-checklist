@@ -1297,3 +1297,7 @@ Recource Hierarchy
 Asset Inventory
 
 <img width="587" alt="Screenshot 2023-07-07 at 12 56 47" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/24765473/bf3471c0-fbb0-4575-9eb0-72e0830fc1a7">
+
+### VPC for Non-Prod Prod Host Project
+- Linking service projects created under teams is pending
+<img width="1933" alt="Screenshot 2023-07-07 at 13 00 21" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/24765473/6e09e50d-fa81-4e99-960e-70b0571b1d57">
