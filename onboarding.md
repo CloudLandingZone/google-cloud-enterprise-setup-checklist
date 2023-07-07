@@ -1301,3 +1301,20 @@ Asset Inventory
 ### VPC for Non-Prod Prod Host Project
 - Linking service projects created under teams is pending
 <img width="1933" alt="Screenshot 2023-07-07 at 13 00 21" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/24765473/6e09e50d-fa81-4e99-960e-70b0571b1d57">
+
+### Monitoring : 
+### Security : Organization Policies
+
+<img width="1214" alt="Screenshot 2023-07-07 at 13 02 47" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/24765473/03f87edd-eec1-461e-af4d-b8c8450da24c">
+
+<img width="1020" alt="Screenshot 2023-07-07 at 13 03 03" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/24765473/bea6f829-8b80-4009-90bd-c07bb7fe76a4">
+
+<img width="881" alt="Screenshot 2023-07-07 at 13 03 21" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/24765473/4b9aae33-ed99-4967-b85e-28fe19e87f96">
+
+However - testing only 1 for now
+
+<img width="933" alt="Screenshot 2023-07-07 at 13 04 15" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/24765473/c35a1c60-5c85-42be-9625-f9ee25e51ca6">
+
+## Finalize
+
+<img width="1128" alt="Screenshot 2023-07-07 at 13 05 06" src="https://github.com/CloudLandingZone/google-cloud-enterprise-setup-checklist/assets/24765473/06230064-ff68-4f70-b421-87124c8546ce">
