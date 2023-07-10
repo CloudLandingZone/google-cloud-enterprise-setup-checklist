@@ -567,7 +567,7 @@ Terraform will perform the following actions:
 [1m  # module.cs-logging-hh015-gz357.module.project-factory.google_project.main[0m will be created
 [0m  [32m+[0m[0m resource "google_project" "main" {
       [32m+[0m[0m auto_create_network = false
-      [32m+[0m[0m billing_account     = "01DB1C-B93B13-FC0154"
+      [32m+[0m[0m billing_account     = "01...4"
       [32m+[0m[0m folder_id           = (known after apply)
       [32m+[0m[0m id                  = (known after apply)
       [32m+[0m[0m name                = "logging"
@@ -627,7 +627,7 @@ Terraform will perform the following actions:
 [1m  # module.cs-monitoring-dev-hh015-gz357.module.project-factory.google_project.main[0m will be created
 [0m  [32m+[0m[0m resource "google_project" "main" {
       [32m+[0m[0m auto_create_network = false
-      [32m+[0m[0m billing_account     = "01DB1C-B93B13-FC0154"
+      [32m+[0m[0m billing_account     = "01..4"
       [32m+[0m[0m folder_id           = (known after apply)
       [32m+[0m[0m id                  = (known after apply)
       [32m+[0m[0m name                = "monitoring-dev"
@@ -687,7 +687,7 @@ Terraform will perform the following actions:
 [1m  # module.cs-monitoring-nonprod-hh015-gz357.module.project-factory.google_project.main[0m will be created
 [0m  [32m+[0m[0m resource "google_project" "main" {
       [32m+[0m[0m auto_create_network = false
-      [32m+[0m[0m billing_account     = "01DB1C-B93B13-FC0154"
+      [32m+[0m[0m billing_account     = "01..4"
       [32m+[0m[0m folder_id           = (known after apply)
       [32m+[0m[0m id                  = (known after apply)
       [32m+[0m[0m name                = "monitoring-nonprod"
@@ -747,7 +747,7 @@ Terraform will perform the following actions:
 [1m  # module.cs-monitoring-prod-hh015-gz357.module.project-factory.google_project.main[0m will be created
 [0m  [32m+[0m[0m resource "google_project" "main" {
       [32m+[0m[0m auto_create_network = false
-      [32m+[0m[0m billing_account     = "01DB1C-B93B13-FC0154"
+      [32m+[0m[0m billing_account     = "01..4"
       [32m+[0m[0m folder_id           = (known after apply)
       [32m+[0m[0m id                  = (known after apply)
       [32m+[0m[0m name                = "monitoring-prod"
@@ -813,7 +813,7 @@ Terraform will perform the following actions:
 [1m  # module.cs-vpc-host-nonprod-hh015-gz357.module.project-factory.google_project.main[0m will be created
 [0m  [32m+[0m[0m resource "google_project" "main" {
       [32m+[0m[0m auto_create_network = false
-      [32m+[0m[0m billing_account     = "01DB1C-B93B13-FC0154"
+      [32m+[0m[0m billing_account     = "0..4"
       [32m+[0m[0m folder_id           = (known after apply)
       [32m+[0m[0m id                  = (known after apply)
       [32m+[0m[0m name                = "vpc-host-nonprod"
@@ -879,7 +879,7 @@ Terraform will perform the following actions:
 [1m  # module.cs-vpc-host-prod-hh015-gz357.module.project-factory.google_project.main[0m will be created
 [0m  [32m+[0m[0m resource "google_project" "main" {
       [32m+[0m[0m auto_create_network = false
-      [32m+[0m[0m billing_account     = "01DB1C-B93B13-FC0154"
+      [32m+[0m[0m billing_account     = "01...4"
       [32m+[0m[0m folder_id           = (known after apply)
       [32m+[0m[0m id                  = (known after apply)
       [32m+[0m[0m name                = "vpc-host-prod"
